@@ -4,3 +4,4 @@ using Linecomparisionprb;
 Console.WriteLine("Welcome to Line Comparison Computation");
 lenghtmeasure.points();
 twolinecomp.TwoLineInput();
+twolineinput.TwoLineInput();
