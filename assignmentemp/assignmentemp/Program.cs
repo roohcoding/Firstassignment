@@ -7,3 +7,4 @@ empdailywage_uc2.Wage();
 partime_uc3.Wage();
 empwage_uc4.EmpWage();
 empworkday_uc5.Emp20DaysWage();
+empworkhour_uc6.Empworkhour();  
