@@ -3,3 +3,4 @@ using assignmentemp;
 
 Console.WriteLine("Welcome to Employee Wage Computation");
 attendance_uc1.Attendance();
+empdailywage_uc2.Wage();
